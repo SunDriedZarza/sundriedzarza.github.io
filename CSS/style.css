@@ -1,6 +1,6 @@
 @font-face {
-    src: url(/Assets/fonts/Lobster-Regular.ttf);
-    font-family : inherit;
+    src: url(Assets/fonts/Lobster-Regular.ttf);
+    font-family : lobster;
 }
 
 
@@ -101,9 +101,9 @@ input, select {
 /* end of reset stylesheet operations */
 
 .paragraph {
-    font-size: 200px;
+    font-size: 50px;
     line-height: 50px;
-    font-family: 'Lobster', cursive;
+    font-family: 'lobster', cursive;
 }
 
 .page-wrap {
