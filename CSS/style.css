@@ -1,6 +1,6 @@
 @font-face {
     src: url(https://github.com/SunDriedZarza/sundriedzarza.github.io/blob/main/Assets/fonts/Lobster-Regular.ttf);
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster';
 }
 
 
@@ -103,7 +103,7 @@ input, select {
 .paragraph {
     font-size: 50px;
     line-height: 50px;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster';
 }
 
 .page-wrap {
