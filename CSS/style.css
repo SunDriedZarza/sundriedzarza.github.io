@@ -92,6 +92,13 @@ hr {
 input, select {
     vertical-align:middle;
 }
+/* end of reset stylesheet operations */
+
+.gradient {
+    width: auto;
+    height: auto;
+    background-image: repeating-radial-gradient();
+}
 
 .paragraph {
     font-size 50px;
