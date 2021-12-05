@@ -1,5 +1,6 @@
 @font-face {
-    src: url(assets/fonts/)
+    src: url(/Assets/fonts/Lobster-Regular.ttf);
+    font-family : inherit;
 }
 
 
