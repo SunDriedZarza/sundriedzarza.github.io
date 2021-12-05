@@ -94,12 +94,6 @@ input, select {
 }
 /* end of reset stylesheet operations */
 
-.gradient {
-    width: auto;
-    height: auto;
-    background-image: repeating-radial-gradient();
-}
-
 .paragraph {
     font-size 50px;
     line-height 50px;
